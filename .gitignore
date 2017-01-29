@@ -5,3 +5,6 @@
 
 # NodeJS
 node_modules
+
+# App
+*.log
